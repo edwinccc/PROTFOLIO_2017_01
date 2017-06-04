@@ -53,7 +53,6 @@
   width:375px;
   height:784px;
   overflow:hidden;
-  touch-action:pan-y;
 }
 #u2_state0 {
   position:absolute;
